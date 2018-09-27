@@ -1,0 +1,35 @@
+[33mcommit d7bc7fa20e9569ad130135447100bc531c4c4ef0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ISMAIL SOUGRATI <soug.isma@gmail.com>
+Date:   Thu Sep 27 16:11:45 2018 +0200
+
+    change in about
+
+[33mcommit 7a8520900c989013245420090bf8783000ba3428[m
+Author: ISMAIL SOUGRATI <soug.isma@gmail.com>
+Date:   Thu Sep 27 13:37:09 2018 +0200
+
+    remove file test.txt
+
+[33mcommit a44d606d0b5a066f10c9806097069af85737a397[m
+Author: ISMAIL SOUGRATI <soug.isma@gmail.com>
+Date:   Thu Sep 27 13:25:07 2018 +0200
+
+    add file
+
+[33mcommit faf073d01c1f7fd95da3c146dc58468bbabdc038[m[33m ([m[1;31morigin/mini-master[m[33m)[m
+Author: ISMAIL SOUGRATI <soug.isma@gmail.com>
+Date:   Wed Sep 26 17:31:20 2018 +0200
+
+    change the titles
+
+[33mcommit e26397c3ca4850668cf9c9890d88df62396d47df[m
+Author: ISMAIL SOUGRATI <soug.isma@gmail.com>
+Date:   Wed Sep 26 13:32:57 2018 +0200
+
+    Cleaned up the html comments
+
+[33mcommit d960d6f7ae48bcfc484c44a33069732cad900ece[m
+Author: ISMAIL SOUGRATI <soug.isma@gmail.com>
+Date:   Wed Sep 26 13:05:01 2018 +0200
+
+    this the first commit
